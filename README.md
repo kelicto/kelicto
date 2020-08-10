@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+- 🔭 I’m currently working on BIM
+- 🌱 I’m currently learning graphics algorithms
+- 📫 How to reach me: kelistudy@163.com
+
+![KeLi's github stats](https://github-readme-stats.vercel.app/api?username=kelicto&show_icons=true&theme=tokyonight)
 
 <!--
 **kelicto/kelicto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
