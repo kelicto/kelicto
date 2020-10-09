@@ -2,6 +2,10 @@
 - 🔭 I’m currently working on BIM
 - 🌱 I’m currently learning graphics algorithms
 - 📫 How to reach me: kelistudy@163.com
+- Previously I've shared some code, as the project increasingly sophisticated, 
+  I want it to privatization, because it basically comes from the growth of my projects grow.
+  Forked my project code existed some problem, such as code structure problem, code bug, name style, etc.
+  If you forked it, suggest you delete it or only study its logic.
 
 ![KeLi's github stats](https://github-readme-stats.vercel.app/api?username=kelicto&show_icons=true&theme=tokyonight)
 
