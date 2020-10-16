@@ -1,7 +1,7 @@
 ### Hi 👋
 - 🔭 I’m currently working on BIM
 - 🌱 I’m currently learning graphics algorithms
-- 📫 How to reach me: kelistudy@163.com
+- 📫 How to reach me: kelicto@protonmail.com
 - 💬 Previously I've shared some code, as the project increasingly sophisticated, 
   I want it to privatization, because it basically comes from the growth of my projects grow.
   Forked my old project code existed some problems, such as code structure, code bugs, name style, etc.
